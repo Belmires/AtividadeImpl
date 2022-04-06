@@ -1,0 +1,17 @@
+pro\gsilva\catalogo\controller\CustomErrorController.class
+pro\gsilva\catalogo\controller\CategoriaController.class
+pro\gsilva\catalogo\repository\CatalogoRepository.class
+pro\gsilva\catalogo\service\CategoriaService.class
+pro\gsilva\catalogo\util\PopulaDados.class
+pro\gsilva\catalogo\model\Categoria.class
+pro\gsilva\catalogo\service\impl\CatalogoServiceImpl.class
+pro\gsilva\catalogo\CatalogoApplication.class
+pro\gsilva\catalogo\service\CatalogoService.class
+pro\gsilva\catalogo\controller\ControllerAdviceConfig.class
+pro\gsilva\catalogo\controller\CatalogoController.class
+pro\gsilva\catalogo\service\impl\CategoriaServiceImpl.class
+pro\gsilva\catalogo\repository\CategoriaRepository.class
+pro\gsilva\catalogo\repository\CustomCatalogoRepository.class
+pro\gsilva\catalogo\repository\CustomCatalogoRepositoryImpl.class
+pro\gsilva\catalogo\config\SecurityConfig.class
+pro\gsilva\catalogo\model\Musica.class
